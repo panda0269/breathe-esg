@@ -1,0 +1,7 @@
+Report_ID,Employee_ID,Employee_Name,Submit_Date,Expense_Type,Travel_Date,Origin,Destination,Class,Amount,Currency,Merchant,Trip_Purpose
+RPT-00891,EMP-4421,Rahul Sharma,2024-02-01,Airfare,2024-01-28,BOM,DEL,Economy,8500,INR,IndiGo,Client Meeting
+RPT-00891,EMP-4421,Rahul Sharma,2024-02-01,Hotel,2024-01-28,,,,6200,INR,Taj Delhi,Client Meeting
+RPT-00891,EMP-4421,Rahul Sharma,2024-02-01,Taxi/Car Svc,2024-01-30,,,,450,INR,Ola Corporate,Client Meeting
+RPT-00892,EMP-3310,Priya Mehta,2024-02-03,Airfare,2024-02-01,BOM,LHR,Business,45000,INR,British Airways,Conference
+RPT-00893,EMP-5521,Arjun Nair,2024-02-05,Airfare,2024-02-04,BLR,XYZ,Economy,12000,INR,Air India,Training
+RPT-00893,EMP-5521,Arjun Nair,2024-02-05,Hotel,2024-02-04,,,,4500,INR,Marriott,Training 

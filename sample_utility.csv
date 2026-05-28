@@ -1,0 +1,6 @@
+Account Number,Meter ID,Service Address,Billing Period Start,Billing Period End,Usage (kWh),Demand (kW),Rate Schedule,Amount,Currency
+ACC-00123456,MTR-789012,42 Industrial Park Andheri Mumbai,2024-01-15,2024-02-14,48320,142.5,TOU-GS-3,9240.80,INR
+ACC-00123456,MTR-789012,42 Industrial Park Andheri Mumbai,2024-02-15,2024-03-16,51200,156.2,TOU-GS-3,9856.40,INR
+ACC-00123456,MTR-789013,Building B Andheri Mumbai,2024-01-15,2024-02-14,12400,38.1,TOU-GS-2,2480.00,INR
+ACC-00123456,MTR-789013,Building B Andheri Mumbai,2024-02-15,2024-03-16,0,0,TOU-GS-2,0,INR
+ACC-00789012,MTR-001122,Pune Factory Block C,2024-01-18,2024-02-17,98500,310.0,HT-1,18230.00,INR
